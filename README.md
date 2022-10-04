@@ -1,1 +1,1 @@
-# Projet3_IML_Besoin_en_consommation_seattle
+# Projet n°3 - Parcours IML - Besoin en consommation électrique de la ville de Seattle
